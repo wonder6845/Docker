@@ -6,7 +6,7 @@
 
 - docker attach <컨테이너 이름>
 
-1. docker logs
+2. docker logs
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e6f77a5-12e7-4bfe-8477-cdce97341270/Untitled.png)
 
@@ -32,4 +32,3 @@ docker logs <실행 중인 컨테이너 이름>
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89d31fe1-ca50-4d55-aae3-6d9981cb0739/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d956b09-0a7c-40a5-8d30-225e7f10ce92/Untitled.png)
-
