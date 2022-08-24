@@ -9,7 +9,7 @@
 
 1. docker logs
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e6f77a5-12e7-4bfe-8477-cdce97341270/Untitled.png)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2e6f77a5-12e7-4bfe-8477-cdce97341270/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220824T073523Z&X-Amz-Expires=86400&X-Amz-Signature=cf97baa92ef468c825cdaf9104cdbd5503c168785ddf77a2bbaae3703aeba61a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - docker start elegant_noyce
 
