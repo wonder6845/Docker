@@ -2,11 +2,11 @@
 
 1. attach 커맨드
 
-![poster](C:\Users\pyopy\OneDrive\바탕 화면\그림\attachmode1.jpg)
+![poster](./attachmode1.jpg)
 
 - docker attach <컨테이너 이름>
 
-2. docker logs
+1. docker logs
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e6f77a5-12e7-4bfe-8477-cdce97341270/Untitled.png)
 
