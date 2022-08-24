@@ -2,7 +2,7 @@
 
 1. attach 커맨드
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94f7f17f-8320-48ee-888b-98d28085e955/Untitled.png)
+![Alt text](C:\Users\pyopy\OneDrive\바탕 화면\그림)
 
 - docker attach <컨테이너 이름>
 
