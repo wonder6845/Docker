@@ -2,7 +2,7 @@
 
 1. attach 커맨드
 
-![poster](C:\Users\pyopy\OneDrive\바탕 화면\그림\attachmode1)
+![poster](C:\Users\pyopy\OneDrive\바탕 화면\그림\attachmode1.jpg)
 
 - docker attach <컨테이너 이름>
 
