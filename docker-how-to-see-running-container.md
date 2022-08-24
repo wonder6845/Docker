@@ -2,7 +2,8 @@
 
 1. attach 커맨드
 
-![poster](./attachmode1.jpg)
+![attachmode1](https://user-images.githubusercontent.com/94940412/186358816-27c650bd-2755-4c03-80b1-a73c3e5af486.jpg)
+
 
 - docker attach <컨테이너 이름>
 
