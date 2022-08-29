@@ -29,9 +29,9 @@ app.post('/create', async (req, res) => {
   const adjTitle = title.toLowerCase();
 
   const tempFilePath = path.join(__dirname, 'temp', adjTitle + '.txt');
-  const finalFislePath = path.join(__dirname, 'feedback', adjTitle + '.txt');
+  const finalFilePath = path.join(__dirname, 'feedback', adjTitle + '.txt');
 
-  console.log('TEST!!');
+  console.log('TEST!!!!!');
 
   await fs.writeFile(tempFilePath, content);
   exists(finalFilePath, async (exists) => {
@@ -45,4 +45,4 @@ app.post('/create', async (req, res) => {
   });
 });
 
-app.listen(80);
+app.listen(process.env.PORT);
